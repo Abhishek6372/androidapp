@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019766805268",
+    "project_id": "gps-sender-9d302",
+    "storage_bucket": "gps-sender-9d302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019766805268:android:c5a15ca94295d432e6e801",
+        "android_client_info": {
+          "package_name": "com.dhirunand.gpssender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019766805268-5o4gqgnu2p0gv28u5s4tivsfbqkm83em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6SPiwIGSIUqH9e7-97eLx_MmZbPG_w8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019766805268-5o4gqgnu2p0gv28u5s4tivsfbqkm83em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
