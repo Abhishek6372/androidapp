@@ -8,7 +8,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1019766805268:android:c5a15ca94295d432e6e801",
+        "mobilesdk_app_id": "1:1019766805268:android:61b36db136599a57e6e801",
         "android_client_info": {
           "package_name": "com.dhirunand.gpssender"
         }
@@ -21,7 +21,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB6SPiwIGSIUqH9e7-97eLx_MmZbPG_w8g"
+          "current_key": "AIzaSyAzE7CwTffaHXznmYnybgZUKDc2seftv8s"
         }
       ],
       "services": {
